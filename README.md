@@ -1,42 +1,42 @@
 ## Hi there 👋
 
-## 🚀 Things I Code With
+Welcom to my page 🙂 <br>
+I'm Saeideh, Frontend developer from Iran, currently living in Germany.
 
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue?logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-Backend-red?logo=nestjs)
-![Angular](https://img.shields.io/badge/Angular-Frontend-red?logo=angular)
-![Redux](https://img.shields.io/badge/Redux-State-purple?logo=redux)
-![RxJS](https://img.shields.io/badge/RxJS-Streams-red?logo=rxjs)
-![GraphQL](https://img.shields.io/badge/GraphQL-API-pink?logo=graphql)
-![Apollo](https://img.shields.io/badge/Apollo-GraphQL-blue?logo=apollo-graphql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-DevOps-blue?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?logo=github-actions)
-![Google Cloud](https://img.shields.io/badge/GCP-Cloud-yellow?logo=google-cloud)
-![Heroku](https://img.shields.io/badge/Heroku-Deploy-purple?logo=heroku)
-![Webpack](https://img.shields.io/badge/Webpack-Bundler-blue?logo=webpack)
-![Rollup](https://img.shields.io/badge/Rollup-Bundler-red?logo=rollup.js)
-![Sass](https://img.shields.io/badge/Sass-Style-pink?logo=sass)
-![Styled Components](https://img.shields.io/badge/Styled_Components-CSS-in-JS-purple?logo=styled-components)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
-![NPM](https://img.shields.io/badge/NPM-Packages-red?logo=npm)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
-![Prettier](https://img.shields.io/badge/Prettier-Code_Formatter-blue?logo=prettier)
-![Insomnia](https://img.shields.io/badge/Insomnia-API_Testing-purple?logo=insomnia)
-![D3.js](https://img.shields.io/badge/D3.js-Data_Vis-orange?logo=d3.js)
-![Brave](https://img.shields.io/badge/Brave-Browser-orange?logo=brave)
+### 🚀 Things I Code With
 
-**sepezh/sepezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=00000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=00000000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&labelColor=00000000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&labelColor=00000000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&labelColor=00000000)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&labelColor=00000000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&labelColor=00000000)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&labelColor=00000000)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&labelColor=00000000)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&labelColor=00000000)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&labelColor=00000000)
+![AntD](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=antdesign&logoColor=white&labelColor=00000000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&labelColor=00000000)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-000000?logo=responsive&logoColor=white&labelColor=00000000)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&labelColor=00000000)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&labelColor=00000000)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&labelColor=00000000)
+![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?logo=react&logoColor=white&labelColor=00000000)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=white&labelColor=00000000)
+![AJAX](https://img.shields.io/badge/-AJAX-0052CC?logo=atlassian&logoColor=white&labelColor=00000000)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&labelColor=00000000)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&labelColor=00000000)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&labelColor=00000000)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&labelColor=00000000)
+![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-6E9F18?logo=testinglibrary&logoColor=white&labelColor=00000000)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=00000000)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&labelColor=00000000)
+![Npm](https://img.shields.io/badge/-Npm-CB3837?logo=npm&logoColor=white&labelColor=00000000)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&labelColor=00000000)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&labelColor=00000000)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&labelColor=00000000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&labelColor=00000000)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&labelColor=00000000)
+![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white&labelColor=00000000)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&labelColor=00000000)
