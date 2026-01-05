@@ -2,7 +2,7 @@
 
 ## 🚀 Things I Code With
 
-![React](https://img.shields.io/badge/React-2023-blue?logo=react)
+![React](https://img.shields.io/badge/React-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue?logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-Backend-red?logo=nestjs)
